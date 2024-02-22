@@ -1,0 +1,9 @@
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.notfound-container .btn {
+  margin-top: 2rem;
+  display: inline-block;
+}
